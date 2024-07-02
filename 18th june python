@@ -1,0 +1,451 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "db70002d-ce78-4fce-ada0-2a90800127c3",
+   "metadata": {},
+   "source": [
+    "a=10"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "2c176e96-ea21-4f47-9d2b-6c48679e8c59",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "10"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "153d844d-20ef-4dce-a3b7-febd760b7eec",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=a+10"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "85998ff7-0390-4993-af3c-5305526eb8f7",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "20"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "7e11da94-e98b-4131-aa68-ea87ca275277",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a1=30"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "a7225d48-77f8-42c3-b5c8-b0a8293624e7",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "30"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "21a50b62-8d71-4f89-a4ac-8699d238c910",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=25\n",
+    "b=6"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "8639d2cb-8188-4839-a988-639b93036881",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "31"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a+b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "54cf62f9-3a75-47db-92d7-51b1dc6a5427",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "19"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a-b\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "2e18d3db-07db-4dbd-8900-8cf4d983d4b4",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "150"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a*b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "a2054d42-2bd9-4f14-b493-28de380db249",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1"
+      ]
+     },
+     "execution_count": 13,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a%b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "46f29d3d-ae4c-463f-ad55-f3107830511b",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "625"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "25**2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "e75c5f1f-69e6-4506-85ed-c238f9cb3645",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "244140625"
+      ]
+     },
+     "execution_count": 15,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a**b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "id": "1bba9506-a99c-45bc-9b59-2acf3303a2c7",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "4.166666666666667"
+      ]
+     },
+     "execution_count": 16,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a/b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "26aa4c97-0f63-4ebc-81ed-adb43d8e11cb",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "4"
+      ]
+     },
+     "execution_count": 17,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a//b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "e3f50b41-011f-4f5f-b7a1-67ffd1196040",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "300\n"
+     ]
+    }
+   ],
+   "source": [
+    "# sum of two numbers\n",
+    "a=100\n",
+    "b=200\n",
+    "c=a+b\n",
+    "print(c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "3b2de34a-e902-44b0-91a8-7c3939c3b316",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "the sum is 300\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"the sum is\",c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "a2716615-d895-4190-b486-c8e1e484a6db",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "the interest is 450.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "# simple interest\n",
+    "p=2000\n",
+    "r=4.5\n",
+    "t=5\n",
+    "si=p*r*t/100\n",
+    "print(\"the interest is\",si)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "id": "98df212f-5b12-4bef-8104-c7121aa38bc7",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "the averge is 20.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=10\n",
+    "b=30\n",
+    "c=20\n",
+    "avg=(a+b+c)/3\n",
+    "print(\"the averge is\",avg)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "eb0b570c-686f-45a3-afdf-5dd9e1c042b7",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "the percent is 67.8\n"
+     ]
+    }
+   ],
+   "source": [
+    "p=56\n",
+    "c=50\n",
+    "b=67\n",
+    "f=89\n",
+    "r=77\n",
+    "s=p+c+b+f+r\n",
+    "per=s*100/500\n",
+    "print(\"the percent is\",per)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "22dd364f-a6a8-47c3-8f72-5c7fb329dbff",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "values before swapping\n",
+      "A= 10\n",
+      "B= 20\n",
+      "values after swapping\n",
+      "A= 20\n",
+      "B= 10\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=10\n",
+    "b=20\n",
+    "print(\"values before swapping\")\n",
+    "print(\"A=\",a)\n",
+    "print(\"B=\",b)\n",
+    "temp=a\n",
+    "a=b\n",
+    "b=temp\n",
+    "print(\"values after swapping\")\n",
+    "print(\"A=\",a)\n",
+    "print(\"B=\",b)\n",
+    "    \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "a1ee77aa-9e71-4a69-99c6-8e189fc59843",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=20\n",
+    "b=18\n",
+    "a=b"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
